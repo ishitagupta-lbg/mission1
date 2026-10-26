@@ -1,4 +1,17 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:blueviolet
+    color:darkblue;
+}
+body {
+    background-color:azure;
+    border: 2px solid crimson;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.main-content {
+    font-family: 'Courier New', Courier, monospace;
+    color: navy;
+    font-size: medium;
+
 }
